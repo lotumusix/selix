@@ -75,14 +75,14 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     if OWNER:
         buttons.append(
             [
-                InlineKeyboardButton(text=_["S_B_7"], url=OWNER),
+                InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER),
             ]
         )
     else:
         if OWNER:
             buttons.append(
                 [
-                    InlineKeyboardButton(text=_["S_B_7"], url=OWNER),
+                    InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER),
                 ]
             )
     buttons.append([InlineKeyboardButton(text=_["ST_B_6"], callback_data="LG")])
