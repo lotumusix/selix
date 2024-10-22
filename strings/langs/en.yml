@@ -74,7 +74,7 @@ admin_34 : "❌➻ Failed to seek the current stream."
 # Bot 
 
 # Start
-start_1 : "Thank you for choosing our MIW-TASTIC MUSIC BOT to bring unending vibes to your chat.\n\nMIW - Make it work is a crypto project devoted to bringing awareness for mental health and suicide. You are not alone, reach out today!🎗💜."
+start_1 : "Thank you for choosing our MIW-TASTIC MUSIC BOT to bring unending vibes to your chat.🔊🎶\n\nMIW - Make it work, is a project devoted to bringing awareness for mental health and suicide. Our Ai Health Coach is available for anyone who is struggling and needs a private shoulder to lean on free of charge. You are not alone, reach out today! 🎗💜."
 start_2 : "Hey,\n this is {0}\n\nA fast and powerful music player bot with some awesome features.\n\nAssistant username: @{1}\nAssistant ID: {2}"
 start_3 : "The owner of {0}, {1} just joined your chat."
 start_4 : "The sudo user of {0}, {1} just joined your chat."
@@ -269,7 +269,7 @@ S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"
 S_B_5 : "✚ Add me to your Group ✚"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Owner"
+S_B_7 : "👤 MIW AI Health Coach"
 S_B_8 : "🔎 How to use? Command Menu"
 
 #PlayMode
